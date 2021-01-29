@@ -1,0 +1,3 @@
+algo.txt 
+1. Decide which Business.
+2. Decide which type of pizza. 
